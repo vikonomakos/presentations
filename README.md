@@ -1,1 +1,1 @@
-An introduction to Reactive Extensions
+A presentation about Reactive Extensions
