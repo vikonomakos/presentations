@@ -1,1 +1,1 @@
-A presentation about Reactive Extensions
+Presentations on technical subjects
